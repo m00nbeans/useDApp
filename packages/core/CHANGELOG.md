@@ -1,5 +1,11 @@
 # @usedapp/core
 
+## 0.8.1
+
+### Patch Changes
+
+- 3015cbd: Replace polygon explorer to polyscan
+
 ## 0.8.0
 
 ### Minor Changes
